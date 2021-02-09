@@ -1,6 +1,6 @@
 define({
 
-	title: 'Cryptalk - Online',
+	title: 'EnejPrivChat - Online',
 
 	ttl: 600000,
 
@@ -15,7 +15,6 @@ define({
 		'░          ░░   ░ ▒ ▒ ░░  ░░         ░        ░   ▒     ░ ░   ░ ░░ ░  \n' +
 		'░ ░         ░     ░ ░                             ░  ░    ░  ░░  ░    \n' +
 		'░                 ░ ░                                                 \n' +
-		'                                  https://github.com/hexagon/cryptalk \n' +
 		'                                                                      \n' +
 		' Tip of the day: /help                                                \n' +
 		'----------------------------------------------------------------------' +
